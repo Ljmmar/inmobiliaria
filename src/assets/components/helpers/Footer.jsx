@@ -7,8 +7,9 @@ function Footer() {
         <div className="footer-content">
           <div className="footer-section">
             <h3>Contact</h3>
-            <p>Email: noname@gmail.com</p>
-            <p>Phone: (123) 456-7890</p>
+            <ul></ul>
+            <li>Email: noname@gmail.com</li>
+            <li>Phone: (123) 456-7890</li>
             <h6>© 2023 noname, Inc.</h6>
           </div>
          
@@ -23,8 +24,8 @@ function Footer() {
           <div className="footer-icon">
             <ul>
               <a href="https://www.facebook.com/"> <img src='./public/icons/facebook.png' alt="Logo" /></a>
-              <a href="https://twitter.com/">  <img src='./public/twitterx.png' alt="Logo" /></a>
-              <a href="https://www.instagram.com/"><img src='./public/instagram.png' alt="Logo" /></a>
+              <a href="https://twitter.com/">  <img src='./public/icons/twitterx.png' alt="Logo" /></a>
+              <a href="https://www.instagram.com/"><img src='./public/icons/instagram.png' alt="Logo" /></a>
               <a href="https://www.youtube.com/"><img src='./public/icons/youtube.png' alt="Logo" /></a>
               <a href="https://www.tiktok.com/en/"><img src='./public/icons/tiktok.png' alt="Logo" /></a>
             </ul>

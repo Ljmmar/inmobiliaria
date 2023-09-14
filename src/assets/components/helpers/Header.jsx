@@ -6,7 +6,7 @@ function Header() {
       <h1 >Noname</h1>
 
       <div className="logo">
-        <img src='./public/casa.png' alt="Logo" />
+        <img src='./public/icons/casa.png' alt="Logo" />
 
       </div>
       <div className='options'>
